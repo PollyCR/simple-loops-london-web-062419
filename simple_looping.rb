@@ -1,7 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-number_of_times.do 
+for each do 
     phrase = "Welcome to Flatiron School's Web Development Course!"
 counter = 1 
 puts phrase 
