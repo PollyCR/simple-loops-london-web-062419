@@ -39,6 +39,6 @@ for number_of_times == 1..7
 puts phrase 
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
-  
+end
 end
 
